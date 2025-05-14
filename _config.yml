@@ -93,7 +93,7 @@ author:
   flickr           :
   facebook         : *facebook
   foursquare       :
-  github           : "mmistakes"
+  github           : "hcchung1"
   google_plus      :
   keybase          :
   instagram        : "mmistakes"
@@ -104,7 +104,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : *twitter
+  # twitter          : *twitter
   vine             :
   weibo            :
   xing             :
