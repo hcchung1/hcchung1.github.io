@@ -82,11 +82,11 @@ analytics:
 # Site Author
 author:
   name             : *name
-  avatar           : "michael-rose.jpg"
+  avatar           : "Chung.jpg"
   bio              : "Just another boring, tattooed, time traveling, designer."
-  location         : "Buffalo, NY"
+  location         : "Taipei, TW"
   email            :
-  uri              : "https://mademistakes.com"
+  uri              : "https://hcchung1.github.io"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -96,7 +96,7 @@ author:
   github           : "hcchung1"
   google_plus      :
   keybase          :
-  instagram        : "mmistakes"
+  instagram        : "c.h_chung_"
   lastfm           :
   linkedin         :
   pinterest        :
@@ -104,7 +104,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  # twitter          : *twitter
+  twitter          : *twitter
   vine             :
   weibo            :
   xing             :
