@@ -1,0 +1,28 @@
+/* 美化專案卡片樣式 */
+.archive .grid__item {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  border-radius: 12px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  background: white;
+  padding: 1rem;
+}
+
+/* 滑鼠 hover 時加強陰影與放大感 */
+.archive .grid__item:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+
+/* 標題樣式 */
+.archive__item-title a {
+  font-weight: bold;
+  font-size: 1.25rem;
+  color: #1a1a1a;
+}
+
+/* 摘要文字樣式 */
+.archive__item-excerpt {
+  margin-top: 0.5rem;
+  color: #555;
+  line-height: 1.5;
+}
