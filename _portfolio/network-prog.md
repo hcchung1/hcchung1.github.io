@@ -1,7 +1,7 @@
 ---
 title: "網路程式設計期末專案"
 excerpt: "建構多人聊天室與 FTP 模擬系統，支援 TCP/UDP 與多用戶通訊。"
-image: https://github.com/hcchung1/Intro-to-Network-Programming/raw/main/images/demo_arch.png
+image: https://github.com/hcchung1/Intro-to-Network-Programming/blob/main/images/P15.png
 layout: single
 collection: portfolio
 ---
@@ -13,4 +13,4 @@ collection: portfolio
 - TCP 與 UDP socket 操作
 
 - 📎 [GitHub 連結](https://github.com/hcchung1/Intro-to-Network-Programming)
-- 🛠 技術：C, Socket Programming, TCP/UDP
+- 🛠 技術: C, Socket Programming, TCP/UDP
