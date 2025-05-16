@@ -9,4 +9,4 @@ collection: portfolio
 這個期末專題透過 Artix-7 板子，開發貪食蛇遊戲。
 
 - 📎 [GitHub 連結](https://github.com/hcchung1/DCL_Final)
-- 🛠 技術：Python, PyTorch, Contrastive Learning
+- 🛠 技術: Python, PyTorch, Contrastive Learning
