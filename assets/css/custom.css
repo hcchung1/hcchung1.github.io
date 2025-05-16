@@ -1,5 +1,67 @@
-.archive .grid__item {
-  border: 1px solid #ddd;
-  padding: 1rem;
+---
+---
+
+/*
+ *    Minimal Mistakes Jekyll Theme
+ *
+ *  - Michael Rose
+ *  - mademistakes.com
+ *  - https://twitter.com/mmistakes
+ *
+*/
+
+@import "vendor/breakpoint/breakpoint"; // media query mixins
+@import "variables";
+@import "mixins";
+@import "vendor/susy/susy";
+
+@import "reset";
+@import "base";
+
+@import "utilities";
+@import "animations";
+@import "tables";
+@import "buttons";
+@import "notices";
+@import "masthead";
+@import "navigation";
+@import "footer";
+@import "syntax";
+
+@import "forms";
+
+@import "page";
+@import "archive";
+@import "sidebar";
+
+@import "vendor/font-awesome/font-awesome";
+@import "vendor/magnific-popup/magnific-popup";
+@import "print";
+
+.archive__item {
+  border-radius: 12px;
   background: #fff;
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.06);
+  padding: 1.5rem;
+  margin-bottom: 2rem;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.archive__item:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+.archive__item-title a {
+  color: #1a1a1a;
+  font-weight: 600;
+  font-size: 1.5rem;
+  text-decoration: none;
+}
+
+.archive__item-excerpt {
+  color: #555;
+  margin-top: 0.5rem;
+  font-size: 1rem;
+  line-height: 1.6;
 }
