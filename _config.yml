@@ -254,6 +254,7 @@ permalink: /:categories/:title/
 # paginate_path: /page:num/
 timezone: Asia/Taipei # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
+remote_theme: "mmistakes/minimal-mistakes"
 
 # Plugins
 plugins:
