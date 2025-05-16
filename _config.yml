@@ -256,7 +256,7 @@ timezone: Asia/Taipei # http://en.wikipedia.org/wiki/List_of_tz_database_time_zo
 
 
 # Plugins
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
