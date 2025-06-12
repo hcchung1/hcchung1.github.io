@@ -29,7 +29,7 @@ feature_row:
     alt: "Japanese Yen Notifier"
     title: "日圓匯率每日通知"
     excerpt: "Using python, git, github action to notify Japanese Yen"
-    url: "/portfolio/computer-org"
+    url: "/portfolio/currency"
     btn_label: "More"
 
 github:
