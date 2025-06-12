@@ -66,9 +66,11 @@
   line-height: 1.6;
 }
 
-.feature__item img {
-  height: 180px;          /* 控制圖片高度 */
-  width: 100%;            /* 滿版寬度 */
-  object-fit: cover;      /* 超出部分裁切，維持比例 */
-  border-radius: 8px;     /* 圓角 */
+.archive__item-teaser img,
+.feature__wrapper .feature__item img {
+  height: 180px;
+  width: 100%;
+  object-fit: cover;
+  border-radius: 8px;
 }
+
