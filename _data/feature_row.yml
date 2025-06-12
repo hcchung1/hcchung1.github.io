@@ -1,0 +1,24 @@
+feature_row:
+  - image_path: https://images.unsplash.com/photo-1625563066122-442e87b0fe49?q=80&w=2344&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+    alt: "BTC/ETH 預測"
+    title: "BTC/ETH 預測工具"
+    excerpt: "使用 LSTM 和技術指標預測加密貨幣價格走勢。"
+    url: "/portfolio/btc-eth"
+    btn_label: "詳細介紹"
+    btn_class: "btn--primary"
+
+  - image_path: https://via.placeholder.com/600x400
+    alt: "Network Programming"
+    title: "網路程式聊天室"
+    excerpt: "期末專案：多人聊天室、FTP 模擬器，支援 Broadcast 與私訊。"
+    url: "/portfolio/network-prog"
+    btn_label: "查看專案"
+    btn_class: "btn--primary"
+
+  - image_path: https://via.placeholder.com/600x400
+    alt: "Computer Org"
+    title: "電腦組織模擬器"
+    excerpt: "使用 Verilog 實作單週期 CPU，支援 MIPS-like 指令集模擬。"
+    url: "/portfolio/computer-org"
+    btn_label: "了解更多"
+    btn_class: "btn--primary"
