@@ -18,7 +18,7 @@ feature_row:
     url: "/portfolio/btc-eth"
     btn_label: "Detail"
 
-  - image_path: https://boardgamegeek.com/image/8279658/incan-gold
+  - image_path: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ruten.com.tw%2Fitem%2Fshow%3F21517158930282&psig=AOvVaw2dVIthXKu647opkZJw7KV6&ust=1749830859611000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJiRr4ii7I0DFQAAAAAdAAAAABAE
     alt: "Incan Gold: Network multi-user turn-based game"
     title: "Incan Gold: Network multi-user turn-based game"
     excerpt: "A multiple user turn-based game develop on Network"
