@@ -1,8 +1,8 @@
 ---
 layout: splash
 title: "Henry's Portfolio"
-css: "/assets/css/custom.css"
 permalink: /
+css: "/assets/css/custom.css"
 header:
   overlay_color: "#5e616c"
   overlay_image: mm-home-page-feature.jpg
