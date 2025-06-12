@@ -18,7 +18,7 @@ feature_row:
     url: "/portfolio/btc-eth"
     btn_label: "Detail"
 
-  - image_path: "/images/IncanGold.jpg"
+  - image_path: IncanGold.jpg
     alt: "Incan Gold: Network multi-user turn-based game"
     title: "Incan Gold: Network multi-user turn-based game"
     excerpt: "A multiple user turn-based game develop on Network"
