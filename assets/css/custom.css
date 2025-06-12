@@ -68,7 +68,7 @@
 
 .archive__item-teaser img,
 .feature__wrapper .feature__item img {
-  height: 180px;
+  height: 250px;
   width: 100%;
   object-fit: cover;
   border-radius: 8px;
